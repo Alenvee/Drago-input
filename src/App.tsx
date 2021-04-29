@@ -55,7 +55,7 @@ const App: React.FC = () => {
             <InputLabel htmlFor="firstName">Your sacrifice to the fire</InputLabel>
             <MyComponent id='value' onChange={formProps.handleChange} error={formProps.errors.value} />
             <Button variant="contained" color="primary" type="submit" >
-              Birn it!
+              Burn it!
             </Button>
           </Form>
           )
