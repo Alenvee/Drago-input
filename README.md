@@ -11,6 +11,11 @@
 BONUS:
 
 a. Add comments to your code to explain behaviour
+
 b. Validate form with Yup.
+
 c. Replace the input with @material-ui/core/TextField component and apply some custom styles (using MUI's css-in-js API)
+
 d. Write a Jest test to test the behaviour end to end (using React Testing Library)
+
+To do this: I spend something like 3-4 h
